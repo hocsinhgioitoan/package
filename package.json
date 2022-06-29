@@ -1,6 +1,6 @@
 {
-  "name": "package",
-  "version": "1.0.0",
+  "name": "mutil-tools-package",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,13 @@
     "fs": "^0.0.1-security",
     "moment": "^2.29.3",
     "winston": "^3.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hocsinhgioitoan/package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hocsinhgioitoan/package/issues"
+  },
+  "homepage": "https://github.com/hocsinhgioitoan/package"
 }
